@@ -11,7 +11,5 @@
 
 #Iniciando o github
 # git init
-# 
-
-
 print("Hello World")
+
